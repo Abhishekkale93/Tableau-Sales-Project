@@ -46,13 +46,15 @@ This project features an interactive Tableau dashboard connected to a **MySQL da
 ## 📷 Dashboard Previews
 
 ### Revenue Analysis Dashboard  
-![Revenue Dashboard]("C:\Users\PRATIK KALE\Pictures\Screenshots\Dashboard 1 - Revenue Analysis.png")
+![Dashboard 1 - Revenue Analysis](https://github.com/user-attachments/assets/65b5cb76-7dbb-4bfe-8ae7-57105c4af2e2)
+
 
 ### Profit Analysis Dashboard  
-![Profit Dashboard]("C:\Users\PRATIK KALE\Pictures\Screenshots\Dashboard 2 - Profit Analysis.png")
+![Dashboard 2 - Profit Analysis](https://github.com/user-attachments/assets/fb185a7e-004c-4cda-9a10-49f5c500215e)
+
 
 ### Top Customers   
-![Top Customers]("C:\Users\PRATIK KALE\Pictures\Screenshots\Top 5 Customers.png")
+![Top 5 Customers](https://github.com/user-attachments/assets/d07c4155-97bc-49b8-887a-7f174d16b909)
 
 ---
 
