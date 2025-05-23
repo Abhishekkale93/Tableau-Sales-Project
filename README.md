@@ -63,9 +63,6 @@ This project features an interactive Tableau dashboard connected to a **MySQL da
 - `Tableau Sales Project.twbx` – Packaged Tableau workbook (includes data and dashboards).
 - `Tableau Sales Project.twb` – XML version of the workbook (for source control or advanced editing).
 - `README.md` – Project documentation and usage instructions.
-- `images/` – Folder with dashboard screenshots.
-
-> ⚠️ Note: Actual data is pulled from a MySQL database and is not included for privacy and security reasons.
 
 ---
 
